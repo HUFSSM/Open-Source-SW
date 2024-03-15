@@ -1,3 +1,0 @@
-name : seminP
-student number : 202301338
-major : Computer Engineering
