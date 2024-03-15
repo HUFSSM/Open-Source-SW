@@ -1,3 +1,0 @@
-name : seminP
-student number : 202401338
-major : Computer Engineering
