@@ -1,3 +1,4 @@
 name : Paik Semin
 student number : 202301338
 major : Computer Engineering
+# 커밋하기
